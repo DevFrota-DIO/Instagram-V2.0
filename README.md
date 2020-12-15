@@ -6,7 +6,7 @@
 
 ### Esse é o meu primeiro exercicio concluído na DIO meus agradecimentos e créditos à Professora *Gabriela Pinheiro* pela simplicidade e didatica direto ao ponto
 
-#### Usei boa parte do código da professora e visitei a página do instagram que não sou besta!!! :) e depois de horas de pesquisa e estudo fui adequando aqui e acolá e cheguei a este formato que eu chamei, carinhosamente de *Clone do Instagram em HTML/CSS versão 2.0*
+#### Usei boa parte do código da professora e visitei a página do instagram, que não sou besta, :) e depois de horas de pesquisa e estudo fui adequando aqui e acolá e cheguei a este formato que eu chamei, carinhosamente de *Clone do Instagram em HTML/CSS versão 2.0*
 
 #### Vocês irão notar que algumas partes do código (como Atributos CSS) estão lá de propósito para nos forçar a irmos mais longe, portanto quem for corrigir os mesmos, não apague e comente explicando cada um deles por favor
 
